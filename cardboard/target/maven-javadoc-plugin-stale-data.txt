@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/giova/OneDrive/Documentos/NetBeansProjects/cardboard/src/main/java;C:/Users/giova/OneDrive/Documentos/NetBeansProjects/cardboard/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/giova/OneDrive/Documentos/NetBeansProjects/cardboard/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'cardboard 1.0.1 API'
+-use
+-version
+-windowtitle
+'cardboard 1.0.1 API'
+com.github.giovaneneves7.cardboard
+com.github.giovaneneves7.cardboard.view
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\src\main\java = 1698493573928
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\generated-sources\annotations = 1698533655855
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\allclasses-index.html = 1698533693058
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\allpackages-index.html = 1698533693082
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\copy.svg = 1698533693370
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\element-list = 1698533692352
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\help-doc.html = 1698533693322
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\index-all.html = 1698533693234
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\index.html = 1698533692969
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\member-search-index.js = 1698533693114
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\module-search-index.js = 1698533693090
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\overview-summary.html = 1698533693282
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\overview-tree.html = 1698533692940
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\package-search-index.js = 1698533693098
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\script.js = 1698533693362
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\search-page.js = 1698533693409
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\search.html = 1698533693258
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\search.js = 1698533693399
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\serialized-form.html = 1698533692748
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\stylesheet.css = 1698533693338
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\tag-search-index.js = 1698533693130
+C:\Users\giova\OneDrive\Documentos\NetBeansProjects\cardboard\target\apidocs\type-search-index.js = 1698533693106
