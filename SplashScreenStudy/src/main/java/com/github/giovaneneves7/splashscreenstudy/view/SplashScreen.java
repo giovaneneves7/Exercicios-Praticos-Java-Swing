@@ -11,8 +11,8 @@ import javax.swing.SwingConstants;
  */
 public class SplashScreen {
   
-    final JWindow window;
-    long milliseconds;
+    private final JWindow window;
+    private long milliseconds;
     
     public SplashScreen(long milliseconds, String imagePath){
         
